@@ -14,6 +14,12 @@ Visualizing document embeddings created from a corpus containing sample filings 
 
 In this initial attempt, the filings by different (hand labeled) groups such as utility companies, cable companies, local government, wireless carriers do not exhibit any clear clustering. This may be because the corpora used to create the embeddings were too small (5 percent random subsamples used, to save on training time). 
 
+## Power company corpus
+![power corpus](./fitpowerCorpus.png)
+
+## Carriers (Verizon, AT&T) corpus
+![carriers](./fitcarrierCorpus.png)
+
 ### Count-based visualization
 A different attempt based on using TF-Idf (Jupyter notebooks in [R](./FCC17_84.ipynb) and [Python](./fccPyClusters.ipynb)) with
 [D3 visualization](https://bl.ocks.org/petecarkeek/c7da7590422d55e0b1dde588d9835df1) on bl.ocks.org
