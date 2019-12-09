@@ -22,7 +22,7 @@ In this initial attempt, the filings by different (hand labeled) groups such as 
 
 ### Count-based visualization
 A different attempt based on using TF-Idf (Jupyter notebooks in [R](./FCC17_84.ipynb) and [Python](./fccPyClusters.ipynb)) with
-[D3 visualization](https://bl.ocks.org/petecarkeek/c7da7590422d55e0b1dde588d9835df1) on bl.ocks.org
+[D3 visualization](https://bl.ocks.org/optimalbrew/c7da7590422d55e0b1dde588d9835df1) on bl.ocks.org
 
 
 ### Notes
